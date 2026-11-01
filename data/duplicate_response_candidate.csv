@@ -1,0 +1,2 @@
+response_id,survey_id,customer_id,channel_id,sentiment_id,response_text,rating,response_date
+RESP-SUR-2026-000001-001,SUR-2026-000001,CUST-000298,CH-005,SENT-001,Excellent product and great experience. Personal school task arrive among three.,4,2026-09-16T00:00:00

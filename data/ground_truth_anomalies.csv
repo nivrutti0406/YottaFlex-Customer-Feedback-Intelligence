@@ -1,0 +1,6 @@
+anomaly_id,source_type,source_id,anomaly_type,expected_severity
+ANOM-001,review,REV-2026-000003,sentiment_contradiction,high
+ANOM-002,support_message,MSG-TKT-2026-000001-001,pii_leakage,high
+ANOM-003,survey_response,RESP-SUR-2026-000001-002,test_label_leakage,high
+ANOM-004,survey_response,RESP-SUR-2026-000001-001,duplicate_response,medium
+ANOM-005,survey_response,RESP-SUR-2026-000001-001,invalid_theme,medium
