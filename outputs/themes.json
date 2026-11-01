@@ -1,0 +1,82 @@
+[
+    {
+        "theme_id": "THEME-000001",
+        "theme_name": "Product Quality",
+        "description": "Customer feedback related to Product Quality",
+        "effective_from": "2026-10-31 14:10:37.772363",
+        "effective_to": null,
+        "status": "active"
+    },
+    {
+        "theme_id": "THEME-000002",
+        "theme_name": "Pricing",
+        "description": "Customer feedback related to Pricing",
+        "effective_from": "2026-10-31 14:10:37.772365",
+        "effective_to": null,
+        "status": "active"
+    },
+    {
+        "theme_id": "THEME-000003",
+        "theme_name": "Delivery",
+        "description": "Customer feedback related to Delivery",
+        "effective_from": "2026-10-31 14:10:37.772366",
+        "effective_to": null,
+        "status": "active"
+    },
+    {
+        "theme_id": "THEME-000004",
+        "theme_name": "Customer Support",
+        "description": "Customer feedback related to Customer Support",
+        "effective_from": "2026-10-31 14:10:37.772367",
+        "effective_to": null,
+        "status": "active"
+    },
+    {
+        "theme_id": "THEME-000005",
+        "theme_name": "User Experience",
+        "description": "Customer feedback related to User Experience",
+        "effective_from": "2026-10-31 14:10:37.772368",
+        "effective_to": null,
+        "status": "active"
+    },
+    {
+        "theme_id": "THEME-000006",
+        "theme_name": "Performance",
+        "description": "Customer feedback related to Performance",
+        "effective_from": "2026-10-31 14:10:37.772369",
+        "effective_to": null,
+        "status": "active"
+    },
+    {
+        "theme_id": "THEME-000007",
+        "theme_name": "Battery Life",
+        "description": "Customer feedback related to Battery Life",
+        "effective_from": "2026-10-31 14:10:37.772369",
+        "effective_to": null,
+        "status": "active"
+    },
+    {
+        "theme_id": "THEME-000008",
+        "theme_name": "Payment Issues",
+        "description": "Customer feedback related to Payment Issues",
+        "effective_from": "2026-10-31 14:10:37.772370",
+        "effective_to": null,
+        "status": "active"
+    },
+    {
+        "theme_id": "THEME-000009",
+        "theme_name": "Product Features",
+        "description": "Customer feedback related to Product Features",
+        "effective_from": "2026-10-31 14:10:37.772371",
+        "effective_to": null,
+        "status": "active"
+    },
+    {
+        "theme_id": "THEME-000010",
+        "theme_name": "Returns and Refunds",
+        "description": "Customer feedback related to Returns and Refunds",
+        "effective_from": "2026-10-31 14:10:37.772372",
+        "effective_to": null,
+        "status": "active"
+    }
+]

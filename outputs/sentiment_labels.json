@@ -1,0 +1,17 @@
+[
+    {
+        "sentiment_id": "SENT-001",
+        "sentiment": "positive",
+        "description": "Positive customer feedback"
+    },
+    {
+        "sentiment_id": "SENT-002",
+        "sentiment": "negative",
+        "description": "Negative customer feedback"
+    },
+    {
+        "sentiment_id": "SENT-003",
+        "sentiment": "neutral",
+        "description": "Neutral customer feedback"
+    }
+]

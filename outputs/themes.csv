@@ -1,0 +1,11 @@
+theme_id,theme_name,description,effective_from,effective_to,status
+THEME-000001,Product Quality,Customer feedback related to Product Quality,2026-10-31 14:10:37.772363,,active
+THEME-000002,Pricing,Customer feedback related to Pricing,2026-10-31 14:10:37.772365,,active
+THEME-000003,Delivery,Customer feedback related to Delivery,2026-10-31 14:10:37.772366,,active
+THEME-000004,Customer Support,Customer feedback related to Customer Support,2026-10-31 14:10:37.772367,,active
+THEME-000005,User Experience,Customer feedback related to User Experience,2026-10-31 14:10:37.772368,,active
+THEME-000006,Performance,Customer feedback related to Performance,2026-10-31 14:10:37.772369,,active
+THEME-000007,Battery Life,Customer feedback related to Battery Life,2026-10-31 14:10:37.772369,,active
+THEME-000008,Payment Issues,Customer feedback related to Payment Issues,2026-10-31 14:10:37.772370,,active
+THEME-000009,Product Features,Customer feedback related to Product Features,2026-10-31 14:10:37.772371,,active
+THEME-000010,Returns and Refunds,Customer feedback related to Returns and Refunds,2026-10-31 14:10:37.772372,,active

@@ -1,0 +1,22 @@
+[
+    {
+        "channel_id": "CH-001",
+        "channel_name": "Website"
+    },
+    {
+        "channel_id": "CH-002",
+        "channel_name": "Mobile App"
+    },
+    {
+        "channel_id": "CH-003",
+        "channel_name": "Email"
+    },
+    {
+        "channel_id": "CH-004",
+        "channel_name": "Social Media"
+    },
+    {
+        "channel_id": "CH-005",
+        "channel_name": "Customer Support"
+    }
+]

@@ -1,0 +1,24 @@
+{
+    "project_name": "YottaFlex Feedback Intelligence",
+    "generated_at_utc": "2026-11-01T02:26:36.032853+00:00",
+    "validation_status": "PASSED",
+    "total_feedback_records": 70000,
+    "failed_validation_checks": 0,
+    "record_counts": {
+        "survey_responses": 25000,
+        "reviews": 25000,
+        "support_messages": 20000
+    },
+    "validation_checks": {
+        "duplicate_response_ids": 0,
+        "duplicate_review_ids": 0,
+        "duplicate_message_ids": 0,
+        "invalid_ratings": 0,
+        "missing_feedback_text": 0,
+        "invalid_survey_customer_references": 0,
+        "invalid_review_product_references": 0,
+        "invalid_support_customer_references": 0,
+        "invalid_theme_references": 0,
+        "invalid_feedback_theme_links": 0
+    }
+}

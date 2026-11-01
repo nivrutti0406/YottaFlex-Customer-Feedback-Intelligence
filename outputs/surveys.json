@@ -1,0 +1,37 @@
+[
+    {
+        "survey_id": "SUR-2026-000001",
+        "survey_name": "Customer Feedback Survey 1",
+        "start_date": "2026-01-31 00:00:00.000000",
+        "end_date": "2026-02-20 00:00:00.000000",
+        "status": "active"
+    },
+    {
+        "survey_id": "SUR-2026-000002",
+        "survey_name": "Customer Feedback Survey 2",
+        "start_date": "2026-03-02 00:00:00.000000",
+        "end_date": "2026-03-22 00:00:00.000000",
+        "status": "active"
+    },
+    {
+        "survey_id": "SUR-2026-000003",
+        "survey_name": "Customer Feedback Survey 3",
+        "start_date": "2026-04-01 00:00:00.000000",
+        "end_date": "2026-04-21 00:00:00.000000",
+        "status": "active"
+    },
+    {
+        "survey_id": "SUR-2026-000004",
+        "survey_name": "Customer Feedback Survey 4",
+        "start_date": "2026-05-01 00:00:00.000000",
+        "end_date": "2026-05-21 00:00:00.000000",
+        "status": "active"
+    },
+    {
+        "survey_id": "SUR-2026-000005",
+        "survey_name": "Customer Feedback Survey 5",
+        "start_date": "2026-05-31 00:00:00.000000",
+        "end_date": "2026-06-20 00:00:00.000000",
+        "status": "active"
+    }
+]

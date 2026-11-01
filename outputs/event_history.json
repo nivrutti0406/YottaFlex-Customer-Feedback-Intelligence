@@ -1,0 +1,32 @@
+[
+    {
+        "event_id": 1,
+        "entity_type": "anomaly",
+        "entity_id": "ANOM-000119",
+        "event_type": "review_update",
+        "old_value": "open",
+        "new_value": "status=in_review\nreviewer_notes=Initial review completed",
+        "event_date": "2026-10-31 17:18:48.042218",
+        "changed_by": "Reviewer"
+    },
+    {
+        "event_id": 2,
+        "entity_type": "anomaly",
+        "entity_id": "ANOM-000119",
+        "event_type": "review_update",
+        "old_value": "in_review",
+        "new_value": "status=resolved\nreviewer_notes=Issue reviewed and resolved",
+        "event_date": "2026-11-01 02:08:19.369550",
+        "changed_by": "Reviewer"
+    },
+    {
+        "event_id": 3,
+        "entity_type": "action_item",
+        "entity_id": "ACT-69D7A35DDD9F",
+        "event_type": "created",
+        "old_value": null,
+        "new_value": "title=k; priority=low; status=open",
+        "event_date": "2026-11-01 02:23:12.297500",
+        "changed_by": "Reviewer"
+    }
+]

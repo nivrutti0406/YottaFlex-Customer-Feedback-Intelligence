@@ -1,0 +1,6 @@
+anomaly_id,source_type,source_id,anomaly_type,description,severity,detected_at,status
+ANOM-000118,support_message,MSG-TKT-2026-000001-001,pii_leakage,Possible email or phone number found.,high,2026-10-31 14:40:54.657729,open
+ANOM-000119,survey_response,RESP-SUR-2026-000001-002,test_label_leakage,Test label found inside feedback text.,high,2026-10-31 14:40:54.657730,resolved
+ANOM-000120,survey_response,RESP-SUR-2026-000001-001,duplicate_response,Duplicate response candidate found in staging file.,medium,2026-10-31 14:40:54.657731,open
+ANOM-000121,survey_response,RESP-SUR-2026-000001-001,invalid_theme,Theme is outside the approved taxonomy.,medium,2026-10-31 14:40:54.657731,open
+ANOM-000122,review,REV-2026-000003,sentiment_contradiction,Negative review text has positive sentiment label.,high,2026-10-31 14:44:47.715202,open

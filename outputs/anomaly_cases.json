@@ -1,0 +1,52 @@
+[
+    {
+        "anomaly_id": "ANOM-000118",
+        "source_type": "support_message",
+        "source_id": "MSG-TKT-2026-000001-001",
+        "anomaly_type": "pii_leakage",
+        "description": "Possible email or phone number found.",
+        "severity": "high",
+        "detected_at": "2026-10-31 14:40:54.657729",
+        "status": "open"
+    },
+    {
+        "anomaly_id": "ANOM-000119",
+        "source_type": "survey_response",
+        "source_id": "RESP-SUR-2026-000001-002",
+        "anomaly_type": "test_label_leakage",
+        "description": "Test label found inside feedback text.",
+        "severity": "high",
+        "detected_at": "2026-10-31 14:40:54.657730",
+        "status": "resolved"
+    },
+    {
+        "anomaly_id": "ANOM-000120",
+        "source_type": "survey_response",
+        "source_id": "RESP-SUR-2026-000001-001",
+        "anomaly_type": "duplicate_response",
+        "description": "Duplicate response candidate found in staging file.",
+        "severity": "medium",
+        "detected_at": "2026-10-31 14:40:54.657731",
+        "status": "open"
+    },
+    {
+        "anomaly_id": "ANOM-000121",
+        "source_type": "survey_response",
+        "source_id": "RESP-SUR-2026-000001-001",
+        "anomaly_type": "invalid_theme",
+        "description": "Theme is outside the approved taxonomy.",
+        "severity": "medium",
+        "detected_at": "2026-10-31 14:40:54.657731",
+        "status": "open"
+    },
+    {
+        "anomaly_id": "ANOM-000122",
+        "source_type": "review",
+        "source_id": "REV-2026-000003",
+        "anomaly_type": "sentiment_contradiction",
+        "description": "Negative review text has positive sentiment label.",
+        "severity": "high",
+        "detected_at": "2026-10-31 14:44:47.715202",
+        "status": "open"
+    }
+]

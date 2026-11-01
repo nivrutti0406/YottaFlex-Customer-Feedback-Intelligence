@@ -1,0 +1,158 @@
+{
+    "project": "YottaFlex Feedback Intelligence",
+    "algorithm": "SHA-256",
+    "generated_at_utc": "2026-11-01T02:27:15.569425+00:00",
+    "total_files": 30,
+    "files": [
+        {
+            "file_name": "outputs\\.gitkeep",
+            "file_size_bytes": 0,
+            "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+        },
+        {
+            "file_name": "outputs\\action_items.csv",
+            "file_size_bytes": 179,
+            "sha256": "75566e24d3318b637f379fd8778191701ea2088acf8cf9d3a3f10b761c4f3787"
+        },
+        {
+            "file_name": "outputs\\action_items.json",
+            "file_size_bytes": 331,
+            "sha256": "21e01672a956f08e97ef868cbaccc7e095bce0c7401a03ef0ab4e8e8d6766939"
+        },
+        {
+            "file_name": "outputs\\anomaly_cases.csv",
+            "file_size_bytes": 839,
+            "sha256": "e73567c93d9d3c4ac2a2b6386cc754d8d17a5b41bd470be448668851282d4709"
+        },
+        {
+            "file_name": "outputs\\anomaly_cases.json",
+            "file_size_bytes": 1850,
+            "sha256": "26734196d0aa20f932526fc2121f5617c547e8942e1a9a54e366bf674539af12"
+        },
+        {
+            "file_name": "outputs\\channels.csv",
+            "file_size_bytes": 120,
+            "sha256": "004391fb353c3d8ac99d95e6ae642e6a6e2a9a8f97312fc91fed74e2b8db0619"
+        },
+        {
+            "file_name": "outputs\\channels.json",
+            "file_size_bytes": 433,
+            "sha256": "a320bcae7bb5a18fc3bce9f4a02843b2c3176508551f10f353d446f036b7e723"
+        },
+        {
+            "file_name": "outputs\\customers.csv",
+            "file_size_bytes": 42270,
+            "sha256": "9f7e9f537ddaac866f7fe9542450c98537b35483b16ea8dcc2dfa23409fb62b8"
+        },
+        {
+            "file_name": "outputs\\customers.json",
+            "file_size_bytes": 107230,
+            "sha256": "e449427d144213108fc4e273e2250de41ccc22f021ffb60f3dfc3ec2a176585e"
+        },
+        {
+            "file_name": "outputs\\event_history.csv",
+            "file_size_bytes": 478,
+            "sha256": "8b39b55699aba8495d581861fce32c7439379a0a79c8939a3ddf22ea4e96734e"
+        },
+        {
+            "file_name": "outputs\\event_history.json",
+            "file_size_bytes": 1041,
+            "sha256": "f0990ab1883317f5206e56dd496f5e29a9be10679435267a9f404e932b11977b"
+        },
+        {
+            "file_name": "outputs\\feedback_theme.csv",
+            "file_size_bytes": 3396939,
+            "sha256": "12c5a6ae20d6197456ee2ae932fb06b74bc7b6745a8a3e8794dbebf9a6b81753"
+        },
+        {
+            "file_name": "outputs\\feedback_theme.json",
+            "file_size_bytes": 14876880,
+            "sha256": "be75e2a472f21fc173fae68addf71637092570bd94de54eaaa5a1bc54d1da989"
+        },
+        {
+            "file_name": "outputs\\products.csv",
+            "file_size_bytes": 670,
+            "sha256": "0adeeb9311ee7936e8c04850d9257a913f828bd0bfc1fbab11afcf56747fc4da"
+        },
+        {
+            "file_name": "outputs\\products.json",
+            "file_size_bytes": 1798,
+            "sha256": "0c59a83b3c73e069a363763f3217edb18d71d2cb347a95622ab172a98793727b"
+        },
+        {
+            "file_name": "outputs\\reviews.csv",
+            "file_size_bytes": 3849644,
+            "sha256": "61431bbf3cf0c3e1f8ebc65ba08c112d38b2bb3c2d57adeeae238125c74e1302"
+        },
+        {
+            "file_name": "outputs\\reviews.json",
+            "file_size_bytes": 9324558,
+            "sha256": "a01a1b76f8a232596a10d0213d7e0be1184210bba722f7fbb538d3838bd6822c"
+        },
+        {
+            "file_name": "outputs\\sentiment_labels.csv",
+            "file_size_bytes": 172,
+            "sha256": "acaaa79c818fc92175fb19166bb0acc7c79e1ed38c696985c49083161fd26f37"
+        },
+        {
+            "file_name": "outputs\\sentiment_labels.json",
+            "file_size_bytes": 418,
+            "sha256": "cae8bff8e4bf725791ae4df2346ae9cca9783c59b8806f4122b0ea3f396862e0"
+        },
+        {
+            "file_name": "outputs\\source_manifest.json",
+            "file_size_bytes": 1614,
+            "sha256": "cea34590a60a1970104ae3225760f2bcefa1854ba168bd2c4b1cbec8ec724d2d"
+        },
+        {
+            "file_name": "outputs\\support_messages.csv",
+            "file_size_bytes": 3614905,
+            "sha256": "e8c876cbf46e52e8eb9eb448af43d6058151f00e7fadd96b386102b871debb27"
+        },
+        {
+            "file_name": "outputs\\support_messages.json",
+            "file_size_bytes": 8594806,
+            "sha256": "246daabfc496f0e6eb111c4cff0d2434941491188f889dce04cf4c0a165ddad8"
+        },
+        {
+            "file_name": "outputs\\survey_responses.csv",
+            "file_size_bytes": 4266011,
+            "sha256": "21e3f1d0e911afd72cb044180860486215f5758cf820c825a30ed8120dca9113"
+        },
+        {
+            "file_name": "outputs\\survey_responses.json",
+            "file_size_bytes": 9865920,
+            "sha256": "a270ea3e368423096edd4a8a7ee0117eeaeea86729f4a541361ded42ba53d622"
+        },
+        {
+            "file_name": "outputs\\surveys.csv",
+            "file_size_bytes": 575,
+            "sha256": "27daf141dbfff560347e898377ce23db2b4c97613da2de0248d949242e539406"
+        },
+        {
+            "file_name": "outputs\\surveys.json",
+            "file_size_bytes": 1213,
+            "sha256": "aea9cc8479c778cbed4a38fc50b1df6e78be84916711dc3db3cb4554adb1b1a5"
+        },
+        {
+            "file_name": "outputs\\themes.csv",
+            "file_size_bytes": 1134,
+            "sha256": "de16ba8e3cf3f1ad65520b2c616911790070054b6fcc8f8bd26acee728393856"
+        },
+        {
+            "file_name": "outputs\\themes.json",
+            "file_size_bytes": 2789,
+            "sha256": "10af8324e63543dc59c36cf613a22eecb4abae4e2cd3ac2f0cd9254b98083ec1"
+        },
+        {
+            "file_name": "outputs\\validation_summary.json",
+            "file_size_bytes": 808,
+            "sha256": "d7586d1b7b8b55b1ea126376b99b7b16bdf5ce2bfa1b82c134b330814896edda"
+        },
+        {
+            "file_name": "outputs\\yottaflex_full_dump.sql",
+            "file_size_bytes": 22335864,
+            "sha256": "34539a57f249f8aee5a40bc053a4b9bd5d39b78908f89ed05971825867134dd9"
+        }
+    ]
+}

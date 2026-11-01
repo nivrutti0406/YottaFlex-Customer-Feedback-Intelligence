@@ -1,0 +1,6 @@
+survey_id,survey_name,start_date,end_date,status
+SUR-2026-000001,Customer Feedback Survey 1,2026-01-31 00:00:00.000000,2026-02-20 00:00:00.000000,active
+SUR-2026-000002,Customer Feedback Survey 2,2026-03-02 00:00:00.000000,2026-03-22 00:00:00.000000,active
+SUR-2026-000003,Customer Feedback Survey 3,2026-04-01 00:00:00.000000,2026-04-21 00:00:00.000000,active
+SUR-2026-000004,Customer Feedback Survey 4,2026-05-01 00:00:00.000000,2026-05-21 00:00:00.000000,active
+SUR-2026-000005,Customer Feedback Survey 5,2026-05-31 00:00:00.000000,2026-06-20 00:00:00.000000,active

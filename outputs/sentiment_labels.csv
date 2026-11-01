@@ -1,0 +1,4 @@
+sentiment_id,sentiment,description
+SENT-001,positive,Positive customer feedback
+SENT-002,negative,Negative customer feedback
+SENT-003,neutral,Neutral customer feedback

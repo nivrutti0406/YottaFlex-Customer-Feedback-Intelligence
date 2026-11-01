@@ -1,0 +1,6 @@
+event_id,entity_type,entity_id,event_type,old_value,new_value,event_date,changed_by
+1,anomaly,ANOM-000119,review_update,open,"status=in_review
+reviewer_notes=Initial review completed",2026-10-31 17:18:48.042218,Reviewer
+2,anomaly,ANOM-000119,review_update,in_review,"status=resolved
+reviewer_notes=Issue reviewed and resolved",2026-11-01 02:08:19.369550,Reviewer
+3,action_item,ACT-69D7A35DDD9F,created,,title=k; priority=low; status=open,2026-11-01 02:23:12.297500,Reviewer
